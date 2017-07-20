@@ -1,3 +1,3 @@
 # Leet-code-practice-
 
-Hello, Yu Zhang's here.
+Hello World. Hello LeetCode.
